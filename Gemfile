@@ -83,3 +83,5 @@ gem 'jsonapi-serializer'
 gem 'rack-cors'
 gem 'rswag'
 gem 'tailwindcss-rails', '~> 2.0'
+
+gem "dockerfile-rails", "~> 1.6"
