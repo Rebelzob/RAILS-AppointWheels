@@ -31,7 +31,7 @@
 
 # 📖 Frontend Link <a name="frontend-link"></a>
 
-- [**Frontend Link**](https://github.com/Rysth/REACT-AppointWheels)
+- [**Frontend Link**](https://github.com/Rebelzob/REACT-AppointWheels)
 
 <!-- PROJECT DESCRIPTION -->
 
